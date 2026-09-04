@@ -1,4 +1,4 @@
-max_weight_grams = float(130)
+max_weight_grams = float(120)
 step_grams = float(10)
 
 def calculate_flight_time(weight_grams):
